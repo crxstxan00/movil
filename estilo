@@ -32,7 +32,7 @@ body{
 }
 
 header{
-	background-image: url(../img/header.jpg);
+	background-image: url(header.jpg);
 	border-radius: 10px;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -135,7 +135,7 @@ p{
 
 footer{
 	background-size: cover;
-	background-image: url(../img/footer.png);
+	background-image: url(footer.png);
 	height: 300px;
 	grid-area: pie;
 }
